@@ -1,0 +1,58 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col24207</md:content-id>
+    <md:title>Introduction to Sociology, 2018, Chs. 12-16</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>fd9c2ccb-9836-419c-8b82-df550b12c869</md:uuid>
+<md:slug>introduction-to-sociology-2018-chs-12-16</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Gender, Sex, and Sexuality</md:title>
+      <col:content>
+        <col:module document="m65557"/>
+        <col:module document="m65564"/>
+        <col:module document="m65549"/>
+        <col:module document="m65565"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Aging and Elderly</md:title>
+      <col:content>
+        <col:module document="m65558"/>
+        <col:module document="m65574"/>
+        <col:module document="m65567"/>
+        <col:module document="m65547"/>
+        <col:module document="m65570"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Marriage and Family</md:title>
+      <col:content>
+        <col:module document="m65559"/>
+        <col:module document="m65573"/>
+        <col:module document="m65572"/>
+        <col:module document="m65548"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Religion</md:title>
+      <col:content>
+        <col:module document="m65581"/>
+        <col:module document="m65585"/>
+        <col:module document="m65582"/>
+        <col:module document="m65583"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Education</md:title>
+      <col:content>
+        <col:module document="m65588"/>
+        <col:module document="m65589"/>
+        <col:module document="m65591"/>
+        <col:module document="m65730"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
