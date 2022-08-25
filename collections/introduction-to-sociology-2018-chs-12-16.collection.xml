@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Hirosuke Hyodo">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col24207</md:content-id>
     <md:title>Introduction to Sociology, 2018, Chs. 12-16</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>fd9c2ccb-9836-419c-8b82-df550b12c869</md:uuid>
-<md:slug>introduction-to-sociology-2018-chs-12-16</md:slug>
-</metadata>
+    <md:slug>introduction-to-sociology-2018-chs-12-16</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Gender, Sex, and Sexuality</md:title>
